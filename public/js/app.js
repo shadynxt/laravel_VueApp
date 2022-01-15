@@ -46460,7 +46460,7 @@ var render = function() {
             { staticClass: "container" },
             [
               _c("a", { staticClass: "navbar-brand", attrs: { href: "#" } }, [
-                _vm._v("Ayat Amine")
+                _vm._v("Shady mohamed")
               ]),
               _vm._v(" "),
               _c("notificationBar"),
@@ -64859,8 +64859,8 @@ if (token) {
 window.Pusher = __webpack_require__(/*! pusher-js */ "./node_modules/pusher-js/dist/web/pusher.js");
 window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__["default"]({
   broadcaster: 'pusher',
-  key: "66ce59d0bc0e5babf7f0",
-  cluster: "mt1",
+  key: "ec841c4c153e387d7c9e",
+  cluster: "eu",
   encrypted: true,
   host: window.location.hostname + ':8000',
   authEndpoint: "/api/broadcasting/auth",
@@ -65848,8 +65848,8 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! G:\xamp\htdocs\tuto\blog\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! G:\xamp\htdocs\tuto\blog\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! E:\laravel\larablogs\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! E:\laravel\larablogs\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
